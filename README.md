@@ -28,10 +28,10 @@ menü üzerinde sol göz kapalı ise yukarı, sağ göz kapalı ise aşağı, ik
 ## Veri Setinden Örnek Görüntüler
 
 <p align="center">
-  <img width="150" height="200" src="https://user-images.githubusercontent.com/61651202/175304987-38b1c516-5286-4e42-8638-24d56dbc8a04.png">
-  <img width="150" height="200" src="https://user-images.githubusercontent.com/61651202/175305375-ddd965fe-9739-423d-bc0e-2ab1b3eb857e.png">
-  <img width="150" height="200" src="https://user-images.githubusercontent.com/61651202/175305393-b859f322-d862-4069-bc52-ecdde3905a45.png">
-  <img width="150" height="200" src="https://user-images.githubusercontent.com/61651202/175305402-793e788d-1140-46ee-96c3-0fbee0acd0d7.png">
+  <img width="175" height="200" src="https://user-images.githubusercontent.com/61651202/175328184-862af62b-2e01-496d-abcc-f404d8fe5b8b.jpg">
+  <img width="175" height="200" src="https://user-images.githubusercontent.com/61651202/175328479-c1e21d08-79ef-4dde-9fd9-4557da5cabb8.jpg">
+  <img width="175" height="200" src="https://user-images.githubusercontent.com/61651202/175305393-b859f322-d862-4069-bc52-ecdde3905a45.png">
+  <img width="175" height="200" src="https://user-images.githubusercontent.com/61651202/175305402-793e788d-1140-46ee-96c3-0fbee0acd0d7.png">
 </p>
 
 ### CNN Katmanları
